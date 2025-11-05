@@ -6,7 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ashtinkelly/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ashtinkelly/post-install-config)
 - <b>Microsoft Azure</b>
-  -[Creating a Virtual Machine within Azure Portal] (https://github.com/ashtinkelly/virtual-machine)
   - [Configuring Active Directory within Azure VMs](https://github.com/ashtinkelly/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ashtinkelly/azure-network-protocols)
 
